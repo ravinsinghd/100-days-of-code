@@ -15,7 +15,7 @@
 **Thoughts**. C++ seems to be very complicated to compile in windows.So decided to continue in rust. But seems to be
 complicated for implementing linked list due to owner concept. So will go through rust basics.
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/ravinsinghd/100-days-of-code/blob/master/guess-game/src/main.rs
 
 ### Day 3: Aug 15, thursday
 
