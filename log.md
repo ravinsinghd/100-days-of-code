@@ -19,6 +19,14 @@ complicated for implementing linked list due to owner concept. So will go throug
 
 ### Day 3: Aug 15, thursday
 
-**Today's Progress**: Read about stacks..
+**Today's Progress**:
+
+_Algorithms_
+
+Read about stacks
+
+_Rust_
+
+Updated guess game with rand package to generate random number
 
 **Resource link**: https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67
