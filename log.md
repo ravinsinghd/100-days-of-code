@@ -16,3 +16,9 @@
 complicated for implementing linked list due to owner concept. So will go through rust basics.
 
 **Link(s) to work**
+
+### Day 3: Aug 15, thursday
+
+**Today's Progress**: Read about stacks..
+
+**Resource link**: https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67
