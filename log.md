@@ -30,3 +30,17 @@ _Rust_
 Updated guess game with rand package to generate random number
 
 **Resource link**: https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67
+
+### Day 4: Aug 16, friday
+
+**Today's Progress**:
+
+_Algorithms_
+
+Read about tree
+
+_Rust_
+
+finished the guess game
+
+**Resource link**: https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7
