@@ -44,3 +44,18 @@ _Rust_
 finished the guess game
 
 **Resource link**: https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7
+
+### Day 5: Aug 17, saturday
+
+_Algorithms_
+
+Learned about binary search tree
+
+_Rust_
+
+Learned about variables in rust
+
+**Resource link**:
+https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d
+
+https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
