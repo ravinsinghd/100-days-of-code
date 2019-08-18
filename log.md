@@ -59,3 +59,18 @@ Learned about variables in rust
 https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d
 
 https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
+
+### Day 6: Aug 18, sunday
+
+_Algorithms_
+
+Learned about queue
+
+_Rust_
+
+Learned about functions in rust
+
+**Resource link**:
+https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04
+
+https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
