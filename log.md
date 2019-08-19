@@ -74,3 +74,19 @@ Learned about functions in rust
 https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04
 
 https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
+
+### Day 7: Aug 19, monday
+
+_Algorithms_
+
+Learned about log n time complexity
+
+_Rust_
+
+Learned about loops & conditions in rust
+
+**Resource link**:
+
+https://medium.com/basecs/looking-for-the-logic-behind-logarithms-9e79d7666dda
+
+https://doc.rust-lang.org/book/ch03-05-control-flow.html
