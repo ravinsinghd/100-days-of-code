@@ -90,3 +90,19 @@ Learned about loops & conditions in rust
 https://medium.com/basecs/looking-for-the-logic-behind-logarithms-9e79d7666dda
 
 https://doc.rust-lang.org/book/ch03-05-control-flow.html
+
+### Day 8: Aug 20, tuesday
+
+_Algorithms_
+
+Learned about basics of graph
+
+_Rust_
+
+Learned about stack, heap & ownership in rust
+
+**Resource link**:
+
+https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8
+
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
