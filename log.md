@@ -106,3 +106,19 @@ Learned about stack, heap & ownership in rust
 https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8
 
 https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
+
+### Day 9: Aug 21, wednesday
+
+_Algorithms_
+
+Learned about Königsberg bridge problem
+
+_Rust_
+
+Learned about reference & borrowing in rust
+
+**Resource link**:
+
+https://medium.com/basecs/k%C3%B6nigsberg-seven-small-bridges-one-giant-graph-problem-2275d1670a12
+
+https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html
