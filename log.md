@@ -139,7 +139,7 @@ https://medium.com/basecs/demystifying-depth-first-search-a7c14cccf056
 
 https://doc.rust-lang.org/book/ch04-03-slices.html
 
-### Day 11: Aug 22, thursday
+### Day 11: Aug 23, friday
 
 _Algorithms_
 
