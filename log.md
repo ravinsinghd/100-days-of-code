@@ -154,3 +154,19 @@ Learned about struct in rust
 https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9
 
 https://doc.rust-lang.org/book/ch05-01-defining-structs.html
+
+### Day 12: Aug 24, saturday
+
+_Algorithms_
+
+Learned about hash tables
+
+_Rust_
+
+Wrote example program using struct
+
+**Resource link**:
+
+https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0
+
+https://doc.rust-lang.org/book/ch05-02-example-structs.html
