@@ -180,3 +180,19 @@ Learned about hash functions & collisions
 **Resource link**:
 
 https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd
+
+### Day 14: Aug 25, monday
+
+_Algorithms_
+
+Learned about set theory
+
+_Rust_
+
+Learned about struct methods
+
+**Resource link**:
+
+https://medium.com/basecs/set-theory-the-method-to-database-madness-5ec4b4f05d79
+
+https://doc.rust-lang.org/book/ch05-03-method-syntax.html
