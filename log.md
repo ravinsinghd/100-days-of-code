@@ -181,7 +181,7 @@ Learned about hash functions & collisions
 
 https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd
 
-### Day 14: Aug 25, monday
+### Day 14: Aug 26, monday
 
 _Algorithms_
 
@@ -196,3 +196,23 @@ Learned about struct methods
 https://medium.com/basecs/set-theory-the-method-to-database-madness-5ec4b4f05d79
 
 https://doc.rust-lang.org/book/ch05-03-method-syntax.html
+
+### Day 15: Aug 27, tuesday
+
+Didn't done anything
+
+### Day 16: Aug 28, wednesday
+
+_Algorithms_
+
+Learned about types of sorting algorithms
+
+_Rust_
+
+Learned about enum
+
+**Resource link**:
+
+https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add
+
+https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html
