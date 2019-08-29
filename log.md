@@ -216,3 +216,19 @@ Learned about enum
 https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add
 
 https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html
+
+### Day 17: Aug 29, thursday
+
+_Algorithms_
+
+Learned about Bubble Sort
+
+_Rust_
+
+Learned about match operator
+
+**Resource link**:
+
+https://medium.com/basecs/bubbling-up-with-bubble-sorts-3df5ac88e592
+
+https://doc.rust-lang.org/book/ch06-02-match.html
