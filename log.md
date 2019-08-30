@@ -232,3 +232,19 @@ Learned about match operator
 https://medium.com/basecs/bubbling-up-with-bubble-sorts-3df5ac88e592
 
 https://doc.rust-lang.org/book/ch06-02-match.html
+
+### Day 18: Aug 30, friday
+
+_Algorithms_
+
+Learned about selection Sort
+
+_Rust_
+
+Learned about if let operator
+
+**Resource link**:
+
+https://medium.com/basecs/exponentially-easy-selection-sort-d7a34292b049
+
+https://doc.rust-lang.org/book/ch06-03-if-let.html
