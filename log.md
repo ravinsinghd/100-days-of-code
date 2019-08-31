@@ -248,3 +248,19 @@ Learned about if let operator
 https://medium.com/basecs/exponentially-easy-selection-sort-d7a34292b049
 
 https://doc.rust-lang.org/book/ch06-03-if-let.html
+
+### Day 19: Aug 31, saturday
+
+_Algorithms_
+
+Learned about insertion sort
+
+_Rust_
+
+Learned about packages & modules
+
+**Resource link**:
+
+https://medium.com/basecs/inching-towards-insertion-sort-9799274430da
+
+https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
