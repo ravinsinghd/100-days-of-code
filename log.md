@@ -264,3 +264,27 @@ Learned about packages & modules
 https://medium.com/basecs/inching-towards-insertion-sort-9799274430da
 
 https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
+
+### Day 20: Sep 1, sunday
+
+Didn't done anything
+
+### Day 21: Sep 2, monday
+
+Didn't done anything
+
+### Day 22: Sep 3, tuesday
+
+_Algorithms_
+
+Learned about merge sort (part 1)
+
+_Rust_
+
+Learned about modules
+
+**Resource link**:
+
+https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478
+
+https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
