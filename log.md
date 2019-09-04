@@ -288,3 +288,19 @@ Learned about modules
 https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478
 
 https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
+
+### Day 23: Sep 4, wednesday
+
+_Algorithms_
+
+Learned about merge sort (part 2)
+
+_Rust_
+
+Learned about modules and paths
+
+**Resource link**:
+
+https://medium.com/basecs/making-sense-of-merge-sort-part-2-be8706453209
+
+https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html
