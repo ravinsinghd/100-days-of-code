@@ -304,3 +304,19 @@ Learned about modules and paths
 https://medium.com/basecs/making-sense-of-merge-sort-part-2-be8706453209
 
 https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html
+
+### Day 24: Sep 5, thursday
+
+_Algorithms_
+
+Learned about quick sort (part 1)
+
+_Rust_
+
+Learned about paths & 'use'
+
+**Resource link**:
+
+https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313
+
+https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html
