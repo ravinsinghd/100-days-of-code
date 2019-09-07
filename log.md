@@ -320,3 +320,23 @@ Learned about paths & 'use'
 https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313
 
 https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html
+
+### Day 25: Sep 6, friday
+
+Didn't done anything
+
+### Day 26: Sep 7, saturday
+
+_Algorithms_
+
+Learned about quick sort (part 2)
+
+_Rust_
+
+Learned about organize modules in different files
+
+**Resource link**:
+
+https://medium.com/basecs/pivoting-to-understand-quicksort-part-2-30161aefe1d3
+
+https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html
