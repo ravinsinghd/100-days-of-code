@@ -340,3 +340,19 @@ Learned about organize modules in different files
 https://medium.com/basecs/pivoting-to-understand-quicksort-part-2-30161aefe1d3
 
 https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html
+
+### Day 27: Sep 8, sunday
+
+_Algorithms_
+
+Learned about heap
+
+_Rust_
+
+Learned about vectors
+
+**Resource link**:
+
+https://medium.com/basecs/learning-to-love-heaps-cef2b273a238
+
+https://doc.rust-lang.org/book/ch08-01-vectors.html
