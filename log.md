@@ -356,3 +356,19 @@ Learned about vectors
 https://medium.com/basecs/learning-to-love-heaps-cef2b273a238
 
 https://doc.rust-lang.org/book/ch08-01-vectors.html
+
+### Day 28: Sep 9, monday
+
+_Algorithms_
+
+Learned about heap sort
+
+_Rust_
+
+Learned about strings collection
+
+**Resource link**:
+
+https://medium.com/basecs/heapify-all-the-things-with-heap-sort-55ee1c93af82
+
+https://doc.rust-lang.org/book/ch08-02-strings.html
