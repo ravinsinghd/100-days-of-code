@@ -372,3 +372,19 @@ Learned about strings collection
 https://medium.com/basecs/heapify-all-the-things-with-heap-sort-55ee1c93af82
 
 https://doc.rust-lang.org/book/ch08-02-strings.html
+
+### Day 29: Sep 10, tuesday
+
+_Algorithms_
+
+Learned about counting sort
+
+_Rust_
+
+Learned about hashmap
+
+**Resource link**:
+
+https://medium.com/basecs/counting-linearly-with-counting-sort-cd8516ae09b3
+
+https://doc.rust-lang.org/book/ch08-03-hash-maps.html
