@@ -388,3 +388,19 @@ Learned about hashmap
 https://medium.com/basecs/counting-linearly-with-counting-sort-cd8516ae09b3
 
 https://doc.rust-lang.org/book/ch08-03-hash-maps.html
+
+### Day 30: Sep 11, wednesday
+
+_Algorithms_
+
+Learned about radix sort
+
+_Rust_
+
+Learned about panic
+
+**Resource link**:
+
+https://medium.com/basecs/getting-to-the-root-of-sorting-with-radix-sort-f8e9240d4224
+
+https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html
