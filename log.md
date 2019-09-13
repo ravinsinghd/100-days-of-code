@@ -404,3 +404,29 @@ Learned about panic
 https://medium.com/basecs/getting-to-the-root-of-sorting-with-radix-sort-f8e9240d4224
 
 https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html
+
+### Day 31: Sep 12, thursday
+
+_Algorithms_
+
+Learned about tries
+
+**Resource link**:
+
+https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014
+
+### Day 32: Sep 13, friday
+
+_Algorithms_
+
+Learned about radix tree compress
+
+_Rust_
+
+Learned about errors with result type
+
+**Resource link**:
+
+https://medium.com/basecs/compressing-radix-trees-without-too-many-tears-a2e658adb9a0
+
+https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html
