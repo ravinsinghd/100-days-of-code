@@ -430,3 +430,19 @@ Learned about errors with result type
 https://medium.com/basecs/compressing-radix-trees-without-too-many-tears-a2e658adb9a0
 
 https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html
+
+### Day 33: Sep 14, saturday
+
+_Algorithms_
+
+Learned about AVL tree
+
+_Rust_
+
+Learned about When and why to use panic
+
+**Resource link**:
+
+https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae410c7
+
+https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html
