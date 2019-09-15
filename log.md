@@ -446,3 +446,19 @@ Learned about When and why to use panic
 https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae410c7
 
 https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html
+
+### Day 34: Sep 15, sunday
+
+_Algorithms_
+
+Learned about relationship between AVL tree and fibonacci series
+
+_Rust_
+
+Learned about generic types
+
+**Resource link**:
+
+https://medium.com/basecs/finding-fibonacci-in-golden-trees-1c8967b1f47a
+
+https://doc.rust-lang.org/book/ch10-01-syntax.html
