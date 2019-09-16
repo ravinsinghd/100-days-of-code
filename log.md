@@ -462,3 +462,19 @@ Learned about generic types
 https://medium.com/basecs/finding-fibonacci-in-golden-trees-1c8967b1f47a
 
 https://doc.rust-lang.org/book/ch10-01-syntax.html
+
+### Day 35: Sep 16, monday
+
+_Algorithms_
+
+Learned about red black tree
+
+_Rust_
+
+Learned about traits
+
+**Resource link**:
+
+https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5
+
+https://doc.rust-lang.org/book/ch10-02-traits.html
