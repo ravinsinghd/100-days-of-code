@@ -478,3 +478,19 @@ Learned about traits
 https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5
 
 https://doc.rust-lang.org/book/ch10-02-traits.html
+
+### Day 36: Sep 17, tuesday
+
+_Algorithms_
+
+Learned about B-tree
+
+_Rust_
+
+Learned about life time
+
+**Resource link**:
+
+https://medium.com/basecs/busying-oneself-with-b-trees-78bbf10522e7
+
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html
