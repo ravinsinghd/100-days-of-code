@@ -494,3 +494,19 @@ Learned about life time
 https://medium.com/basecs/busying-oneself-with-b-trees-78bbf10522e7
 
 https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html
+
+### Day 37: Sep 18, wednesday
+
+_Algorithms_
+
+Learned about graph representation in memory
+
+_Rust_
+
+Learned about testing in rust
+
+**Resource link**:
+
+https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38
+
+https://doc.rust-lang.org/book/ch11-01-writing-tests.html
