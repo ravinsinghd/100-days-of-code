@@ -510,3 +510,23 @@ Learned about testing in rust
 https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38
 
 https://doc.rust-lang.org/book/ch11-01-writing-tests.html
+
+### Day 38: Sep 19, thursday
+
+Didn't learn anything
+
+### Day 39: Sep 20, friday
+
+_Algorithms_
+
+Learned about BFS in graph
+
+_Rust_
+
+Learned about controlling test
+
+**Resource link**:
+
+https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255
+
+https://doc.rust-lang.org/book/ch11-02-running-tests.html
