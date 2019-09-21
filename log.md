@@ -530,3 +530,19 @@ Learned about controlling test
 https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255
 
 https://doc.rust-lang.org/book/ch11-02-running-tests.html
+
+### Day 40: Sep 21, saturday
+
+_Algorithms_
+
+Learned about DFS in graph
+
+_Rust_
+
+Learned about organizing test code
+
+**Resource link**:
+
+https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13
+
+https://doc.rust-lang.org/book/ch11-03-test-organization.html
