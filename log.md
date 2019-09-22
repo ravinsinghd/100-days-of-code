@@ -546,3 +546,13 @@ Learned about organizing test code
 https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13
 
 https://doc.rust-lang.org/book/ch11-03-test-organization.html
+
+### Day 41: Sep 22, sunday
+
+_Algorithms_
+
+Learned about Cyclic graph
+
+**Resource link**:
+
+https://medium.com/basecs/spinning-around-in-cycles-with-directed-acyclic-graphs-a233496d4688
