@@ -556,3 +556,23 @@ Learned about Cyclic graph
 **Resource link**:
 
 https://medium.com/basecs/spinning-around-in-cycles-with-directed-acyclic-graphs-a233496d4688
+
+### Day 42: Sep 23, monday
+
+Didn't learn anything
+
+### Day 43: Sep 24, tuesday
+
+_Algorithms_
+
+Learned about shortest path finding
+
+_Rust_
+
+Started sample project to do simple IO and grep
+
+**Resource link**:
+
+https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e
+
+https://doc.rust-lang.org/book/ch12-01-accepting-command-line-arguments.html
