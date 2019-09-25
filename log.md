@@ -576,3 +576,19 @@ Started sample project to do simple IO and grep
 https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e
 
 https://doc.rust-lang.org/book/ch12-01-accepting-command-line-arguments.html
+
+### Day 44: Sep 25, wednesday
+
+_Algorithms_
+
+Learned about dynamic programming
+
+_Rust_
+
+Created rust library to modularize code
+
+**Resource link**:
+
+https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630
+
+https://doc.rust-lang.org/book/ch12-03-improving-error-handling-and-modularity.html
