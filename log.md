@@ -592,3 +592,23 @@ Created rust library to modularize code
 https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630
 
 https://doc.rust-lang.org/book/ch12-03-improving-error-handling-and-modularity.html
+
+### Day 45: Sep 26, thursday
+
+Didn't learn anything
+
+### Day 46: Sep 27, friday
+
+_Algorithms_
+
+Learned about salesman problem
+
+_Rust_
+
+Added testing and functionality to the text search program
+
+**Resource link**:
+
+https://medium.com/basecs/the-trials-and-tribulations-of-the-traveling-salesman-56048d6709d
+
+https://doc.rust-lang.org/book/ch12-04-testing-the-librarys-functionality.html
