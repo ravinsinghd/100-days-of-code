@@ -612,3 +612,23 @@ Added testing and functionality to the text search program
 https://medium.com/basecs/the-trials-and-tribulations-of-the-traveling-salesman-56048d6709d
 
 https://doc.rust-lang.org/book/ch12-04-testing-the-librarys-functionality.html
+
+### Day 47: Sep 28, saturday
+
+Didn't learn anything
+
+### Day 48: Sep 29, sunday
+
+_Algorithms_
+
+Learned about salesman problem with dynamic programing (partial)
+
+_Rust_
+
+Added case insensitive search using environment variable
+
+**Resource link**:
+
+https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd
+
+https://doc.rust-lang.org/book/ch12-05-working-with-environment-variables.html
