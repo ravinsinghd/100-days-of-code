@@ -632,3 +632,19 @@ Added case insensitive search using environment variable
 https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd
 
 https://doc.rust-lang.org/book/ch12-05-working-with-environment-variables.html
+
+### Day 49: Sep 30, monday
+
+_Algorithms_
+
+Learned about parser
+
+_Rust_
+
+Learn to write errors into standard error instead of standard output
+
+**Resource link**:
+
+https://medium.com/basecs/grammatically-rooting-oneself-with-parse-trees-ec9daeda7dad
+
+https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html
