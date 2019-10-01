@@ -648,3 +648,19 @@ Learn to write errors into standard error instead of standard output
 https://medium.com/basecs/grammatically-rooting-oneself-with-parse-trees-ec9daeda7dad
 
 https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html
+
+### Day 50: Oct 1, tuesday
+
+_Algorithms_
+
+Learned about lexer
+
+_Rust_
+
+Learned about closures
+
+**Resource link**:
+
+https://medium.com/basecs/reading-code-right-with-some-help-from-the-lexer-63d0be3d21d
+
+https://doc.rust-lang.org/book/ch13-01-closures.html
