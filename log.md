@@ -664,3 +664,19 @@ Learned about closures
 https://medium.com/basecs/reading-code-right-with-some-help-from-the-lexer-63d0be3d21d
 
 https://doc.rust-lang.org/book/ch13-01-closures.html
+
+### Day 51: Oct 2, wednesday
+
+_Algorithms_
+
+Learned about AST
+
+_Rust_
+
+Learned about closures
+
+**Resource link**:
+
+https://medium.com/basecs/leveling-up-ones-parsing-game-with-asts-d7a6fc2400ff
+
+https://doc.rust-lang.org/book/ch13-01-closures.html
