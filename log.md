@@ -680,3 +680,19 @@ Learned about closures
 https://medium.com/basecs/leveling-up-ones-parsing-game-with-asts-d7a6fc2400ff
 
 https://doc.rust-lang.org/book/ch13-01-closures.html
+
+### Day 52: Oct 3, thursday
+
+_Algorithms_
+
+Learned about interpreter
+
+_Rust_
+
+Learned about iterators
+
+**Resource link**:
+
+https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
+
+https://doc.rust-lang.org/book/ch13-02-iterators.html
