@@ -696,3 +696,19 @@ Learned about iterators
 https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
 
 https://doc.rust-lang.org/book/ch13-02-iterators.html
+
+### Day 53: Oct 4, friday
+
+_Algorithms_
+
+Learned about JIT compiler
+
+_Rust_
+
+Update minigrep program to use iterators
+
+**Resource link**:
+
+https://medium.com/basecs/a-most-perfect-union-just-in-time-compilers-2938712a9f6a
+
+https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html
