@@ -722,3 +722,8 @@ _Algorithms_
 Studied CLRS 1st chapter
 
 _Rust_
+
+Learned rust workspaces
+
+**Resource link**:
+https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
