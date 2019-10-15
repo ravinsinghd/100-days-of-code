@@ -712,3 +712,13 @@ Update minigrep program to use iterators
 https://medium.com/basecs/a-most-perfect-union-just-in-time-compilers-2938712a9f6a
 
 https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html
+
+### Last eleven days didn't learn anything
+
+### Day 64: Oct 5, tuesday
+
+_Algorithms_
+
+Studied CLRS 1st chapter
+
+_Rust_
