@@ -715,7 +715,7 @@ https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html
 
 ### Last eleven days didn't learn anything
 
-### Day 64: Oct 5, tuesday
+### Day 64: Oct 15, tuesday
 
 _Algorithms_
 
@@ -727,3 +727,17 @@ Learned rust workspaces
 
 **Resource link**:
 https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
+
+### Day 64: Oct 16, wednesday
+
+_Algorithms_
+
+CLRS: Insertion Sort
+
+_Rust_
+
+Cargo binary install & use
+
+**Resource link**:
+
+https://doc.rust-lang.org/book/ch14-04-installing-binaries.html
