@@ -728,7 +728,7 @@ Learned rust workspaces
 **Resource link**:
 https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
 
-### Day 64: Oct 16, wednesday
+### Day 65: Oct 16, wednesday
 
 _Algorithms_
 
